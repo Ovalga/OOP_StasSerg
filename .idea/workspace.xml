@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a4a47a3-fe6c-4124-9ac2-9f837a0285dd" name="Changes" comment="Hello Stanislav Konstantinovich">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="1a4a47a3-fe6c-4124-9ac2-9f837a0285dd" name="Changes" comment="Hello, Stanislav Konstantinovich">
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,11 +48,20 @@
       <option name="project" value="LOCAL" />
       <updated>1695407371577</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Hello, Stanislav Konstantinovich">
+      <option name="closed" value="true" />
+      <created>1695407995016</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695407995016</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hello Stanislav Konstantinovich" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hello Stanislav Konstantinovich" />
+    <MESSAGE value="Hello, Stanislav Konstantinovich" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello, Stanislav Konstantinovich" />
   </component>
 </project>
